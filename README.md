@@ -1,2 +1,2 @@
 # scoala-informala-homeworks
-Dragos Pintilie
+Dragos Pintilie - exercise
